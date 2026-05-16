@@ -926,7 +926,7 @@
     {
         "id": "be226ccb-e7b4-4f8c-b7d0-ef9640c705cb",
         "syllogism": "Anything which is an animal is a flightless thing. Every single bird is an animal. There are no birds that are not flightless.",
-        "validity": false,
+        "validity": true,
         "plausibility": false
     },
     {
